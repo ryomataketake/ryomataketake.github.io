@@ -49,3 +49,21 @@ footer{
 li{
     margin-bottom:12px;
 }
+.talk{
+    margin-bottom:30px;
+}
+
+.talk-title{
+    margin-bottom:5px;
+}
+
+.talk-date{
+    color:#666;
+    font-size:0.9em;
+}
+
+.talk-info{
+    margin-top:0;
+    margin-left:20px;
+    color:#444;
+}
